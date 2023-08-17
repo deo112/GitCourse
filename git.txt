@@ -1,2 +1,6 @@
 git init - repo initialization
 git status - check tracked files 
+git add - add files to track
+git commit -m "comment" - commit changes with comment
+git remote add origin <link> - add link to remote github repository
+git push origin master - push changes to remote repository
